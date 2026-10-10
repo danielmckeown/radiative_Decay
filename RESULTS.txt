@@ -1,0 +1,21 @@
+CONTINUUM RADIATIVE DECAY FROM OPERATOR-VALUED F x
+===================================================
+
+x0=0.7071067811865476
+Gamma0=0.01
+eta=6.0
+collision_time=25.0
+
+space exact 1/e lifetime=100.50728534490112
+encounter exact 1/e lifetime=22.54254589280552
+space Markov 1/e lifetime=100.00000000000131
+encounter Markov 1/e lifetime=22.127828477208624
+
+final photon probability space=0.6975182494398198
+final photon probability encounter=0.9980334108232455
+mean photon omega space=0.9999999981472564
+mean photon omega encounter=0.9999999927777619
+photon sigma space=0.0598290384517985
+photon sigma encounter=0.1691231476238393
+max norm error space=3.798002867760886e-08
+max norm error encounter=4.265022757188319e-08
